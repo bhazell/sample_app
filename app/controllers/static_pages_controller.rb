@@ -8,10 +8,6 @@ class StaticPagesController < ApplicationController
   def about
   end
 
-<<<<<<< HEAD
-=======
   def contact
   end
-
->>>>>>> static-pages-exercises
 end
